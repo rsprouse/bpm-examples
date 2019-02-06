@@ -9,9 +9,9 @@ along with pointers to further documentation of each.
 
 ## Table of contents
 
-[Keep a notebook with JupyterLab](notebook/jupyterlab.ipynb)
-[Montreal Forced Aligner](notebook/montreal_forced_aligner.ipynb)
-[Praat scripting in Python with Parselmouth](notebook/parselmouth.ipynb)
+- [Keep a notebook with JupyterLab](notebook/jupyterlab.ipynb)
+- [Montreal Forced Aligner](notebook/montreal_forced_aligner.ipynb)
+- [Praat scripting in Python with Parselmouth](notebook/parselmouth.ipynb)
 
 ## Installation
 
