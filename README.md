@@ -9,9 +9,11 @@ along with pointers to further documentation of each.
 
 ## Table of contents
 
+- [Getting started with a terminal](notebook/using_a_terminal.ipynb)
 - [Keep a notebook with JupyterLab](notebook/jupyterlab.ipynb)
 - [Montreal Forced Aligner](notebook/montreal_forced_aligner.ipynb)
 - [Praat scripting in Python with Parselmouth](notebook/parselmouth.ipynb)
+- [Sharing your work via github](notebook/sharing_with_github.ipynb)
 
 ## Installation
 
